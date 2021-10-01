@@ -30,7 +30,7 @@
     1+1
 </body>
 ```
-![출력 이미지](img/WEB2-JavaScript_1_1.png)
+![출력 이미지](../img/WEB2-JavaScript_1_1.png)
 
 ### Reference
 
@@ -50,12 +50,12 @@
     <input type="text" placeholder="onkeydown" onkeydown="alert('key down!')">
 </body>
 ```
-![출력 이미지](img/WEB2-JavaScript_1_2.png)
+![출력 이미지](../img/WEB2-JavaScript_1_2.png)
 - button을 누르면 "hi"라는 경고문이 출력된다.
 - onchange에 이전과 다른 문자를 입력하면 "changed!"라는 경고문이 출력된다.
 - onclickdown에 문자를 입력하면 "key down!"이라는 경고문이 출력된다.
 
-![경고문](img/WEB2-JavaScript_1_3.png)
+![경고문](../img/WEB2-JavaScript_1_3.png)
 
 <br>
 
