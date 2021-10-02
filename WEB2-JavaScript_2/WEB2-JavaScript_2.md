@@ -6,5 +6,16 @@
 
 ![console](../img/WEB2-JavaScript_2_1.png)
 
+- 예를 들어, 콘솔 창에서 length 함수를 사용하여 웹페이지의 글자의 개수를 구할 수도 있다.
+
 ### Reference
 > https://opentutorials.org/module/3180/18869
+
+<br>
+
+## WEB2 JavaScript - 6.데이터타입 - 문자열과 숫자
+
+- C언어나 Python 등에서 배운 문자열과 숫자에 대해 설명한 강의였다. 기존에 이미 알던 내용이라 따로 정리하지는 않기로 한다.
+
+## Reference
+> https://opentutorials.org/module/3180/18870
