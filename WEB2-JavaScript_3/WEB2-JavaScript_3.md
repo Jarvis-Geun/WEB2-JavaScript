@@ -18,4 +18,27 @@
 
 <br>
 
-## 
+## WEB2 JavaScript - 9. CSS 기초 : style 속성
+
+- 이미 알고 있는 내용이라 빨리 넘김
+
+### Reference
+> https://opentutorials.org/module/3180/18789
+
+<br>
+
+## WEB2 JavaScript - 10.CSS 기초 (style 태그)
+
+- 이미 알고 있는 내용이라 빨리 넘김
+
+### Reference
+> https://opentutorials.org/module/3180/18789
+
+<br>
+
+## WEB2 JavaScript - 11.CSS 기초 : 선택자
+
+- 이미 알고 있는 내용이라 빨리 넘김
+
+### Reference
+> https://opentutorials.org/module/3180/18789
